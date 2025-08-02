@@ -1,0 +1,13 @@
+body {
+  background: #0d0d0d;
+  color: #eaeaea;
+  font-family: 'Courier New', monospace;
+  padding: 2rem;
+}
+a {
+  color: #c7a6ff;
+}
+main {
+  max-width: 600px;
+  margin: auto;
+}
